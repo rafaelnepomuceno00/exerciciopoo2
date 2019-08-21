@@ -25,6 +25,7 @@ public class Exercicio extends Application {
         
         stage.setScene(scene);
         stage.show();
+        stage.setTitle("exercicio 1");
     }
 
     /**
